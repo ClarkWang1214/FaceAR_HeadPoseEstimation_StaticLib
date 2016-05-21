@@ -1,6 +1,6 @@
 QT Project -  FaceAR Head Pose Estimation StaticLib based on CLM-framework (Now the project has moved to new repositories: OpenFace - https://github.com/TadasBaltrusaitis/OpenFace Created by TadasBaltrusaitis), eos, dlib.
 
-This project could be used to select good frames from images sequences and estimate the head pose with opencv method: solvePnP and another method based on 2D image face geometrical relationship, then we can send the pose results(R, T) into 3D render engine, and complete the task such as Virtual Eye-Glass Wear-On AR Program.
+This project could be used to select good frames from images sequences and estimate the head pose with opencv method: solvePnP and another method based on 2D image face geometrical relationship, then we can send the pose results(R, T) into 3D render engine, and complete the task such as Virtual Eye-Glass Wear-On AR Program.(https://github.com/ClarkWang12/AR-VirtualGlassesTryOn)
 
 This code has been tested on Ubuntu 14.04
 
